@@ -1,0 +1,1 @@
+var json_Hwasong12H12LaunchSite_6 = {"type":"FeatureCollection","name":"Hwasong12H12LaunchSite_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"pkuid":"1","Name":"Hwasong-12","Launch Sit":"52TCK689588458"},"geometry":{"type":"Point","coordinates":[127.453298993621289,40.50950271726991]}}]}
